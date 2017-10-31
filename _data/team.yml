@@ -131,6 +131,15 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/angela-udemba-phd-31841a36/"}
 -
+  id: 41
+  name: "Billy"
+  surname: "Kacyem"
+  title: "Director, Marketing"
+  thumbnailUrl: team/Kacyem.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/billykacyem/"}
+-
   id: 27
   name: "Buki"
   surname: "Samuel"
@@ -205,6 +214,17 @@
     #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
+  id: 42
+  name: "Ivana"
+  surname: "Moses"
+  title: "Director, Operations"
+  thumbnailUrl: team/Moses.jpg
+  orgTeam: true
+  social:
+    #- {name: "linkedin", link: "https://www.linkedin.com/in/halle-abraham"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
   id: 30
   name: "John"
   surname: "Okenwa"
@@ -240,6 +260,15 @@
   orgTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/kofoworola-agbaje-9b096432/"}
+-
+  id: 40
+  name: "Kwesi"
+  surname: "Sey"
+  title: "Director, Technology"
+  thumbnailUrl: team/Kwesi.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kwesisey/"}
 -
   id: 14
   name: "Lisette"
@@ -296,12 +325,3 @@
   orgTeam: true
   social:
     - {name: "linkedin", link: "https://www.instagram.com/djyoossouph/"}
--
-  id: 40
-  name: "Kwesi"
-  surname: "Sey"
-  title: "Director, Marketing"
-  thumbnailUrl: team/Kwesi.jpg
-  orgTeam: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/kwesisey/"}
