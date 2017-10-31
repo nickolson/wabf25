@@ -62,7 +62,7 @@
   id: 407
   title: "Fireside Chat: Consumer Goods"
   place: "Anthony"
-  speakers: [13, 30]
+  speakers: [13, 30, 39]
 -
   id: 427
   title: "Fireside Chat: Education"
@@ -80,7 +80,7 @@
   service: true
 -
   id: 409
-  title: "Grand Panel: Agriculture"
+  title: "Fireside Chat: Agriculture"
   place: "Howe"
   speakers: [7, 27]
 -
@@ -92,7 +92,7 @@
   id: 411
   title: "Grand Panel: Private Equity"
   place: "Lescaze"
-  speakers: [42, 28, 24, 53]
+  speakers: [42, 28, 24, 53, 38]
 -
   id: 412
   title: "Fireside Chat: Data Revolution"
