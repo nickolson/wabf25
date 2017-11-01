@@ -62,7 +62,7 @@
   id: 407
   title: "Fireside Chat: Consumer Goods"
   place: "Anthony"
-  speakers: [13, 30, 39]
+  speakers: [13, 30, 39, 63, 64]
 -
   id: 427
   title: "Fireside Chat: Education"
@@ -107,7 +107,7 @@
   id: 430
   title: "Fireside Chat: Impact Investing"
   place: "Franklin"
-  speakers: [10, 43]
+  speakers: [10, 43, 62, 65]
 -
   id: 422
   title: "Masterclass: How I Built This | My Techpreneurship Journey"
@@ -117,7 +117,7 @@
   id: 425
   title: "Investing in African Art as an Asset Class"
   place: "TBD"
-  speakers: [47, 48, 49]
+  speakers: [47, 48, 49, 61]
 -
   id: 423
   title: "Masterclass: Insider Look at the Largest African Venture Funding to Date"
@@ -182,5 +182,5 @@
 -
   id: 700
   title: "Twitter Q&A with Prof. Calestous Juma"
-  place: "<a href=https://twitter.com/wabf__25>Twitter: @wabf__25</a>"
+  place: "<a href=https://twitter.com/calestous>Twitter: @calestous</a> #JumaWABF"
   speakers: [60]
