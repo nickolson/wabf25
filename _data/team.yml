@@ -122,6 +122,15 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/ykwalker"}
     #- {name: "twitter", link: "http://olostan.name/"}
 -
+  id: 45
+  name: "Alula"
+  surname: "Selassie"
+  title: "Director, Content"
+  thumbnailUrl: team/Alula.jpg
+  orgTeam: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alula-selassie-2b59a6104/"}
+-
   id: 13
   name: "Angela"
   surname: "Udemba"

@@ -1,4 +1,15 @@
 -
+  date: "2017-11-01"
+  dateReadable: "November 1"
+  tracks:
+    - {title: "Track 1", color: "#9f172e"}
+  timeslots:
+    - {
+        startTime: "13:30",
+        endTime: "14:30",
+        sessionIds: [700]
+    }
+-
   date: "2017-11-03"
   dateReadable: "November 3"
   tracks:
