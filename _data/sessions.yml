@@ -8,7 +8,7 @@
   title: "Wharton MBA and Lauder Admissions Session & Student Panel"
   place: "Commonwealth Ballroom"
   service: true
-  speakers: [56]
+  speakers: [56, 66]
 -
   id: 302
   title: "Venture Competition"
@@ -120,7 +120,7 @@
   speakers: [61, 48, 49]
 -
   id: 423
-  title: "Masterclass: Insider Look at the Largest African Venture Funding to Date"
+  title: "Masterclass: Insider Look at Andela's Series C - the Largest African Venture Funding to Date"
   place: "TBD"
   speakers: [51]
 -

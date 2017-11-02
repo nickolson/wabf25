@@ -440,12 +440,12 @@
   entertainment: true
 -
   id: 48
-  name: "Data"
-  surname: "Oruwari"
-  company: "<br>"
-  title: "Fine Artist and Creative Strategist"
-  thumbnailUrl: speakers/Oruwari.jpg
-#  bio: "Osagie has over 30 years of experience in the field of law, finance, business management, healthcare and the pharmaceutical industry. He is a co-founder of PIPV Capital, prior to which he conceptualized and established GlaxoSmithKline Ventures and was its founding Vice President.<br><br>Osagie has held senior commercial and R&D positions within pharmaceutical companies such as GSK, SmithKline, DuPont Merck and Endo, where he was the founding General Counsel and SVP for Corporate Development. Osagie has also been a Price Waterhouse Corporate Finance Partner as well as a practicing attorney with a leading US Law Firm.<br><br>Osagie is a serial entrepreneur and investor. He serves as Chairman and Founder of iLera Healthcare as well as a Director of iCeutica Inc. Osagie was the Founder and Chairman of Ception Therapeutics Inc. and Trigenesis Therapeutics Inc. In addition, he serves on the Board of a number of financial institutions such as Haverford Trust (over $6 Billion in AUM) and StoneRidge Investment (over $2 Billion in AUM) and as the Chairman of the Advisory Board of Quoin Capital.<br><br>Osagie is a Trustee of the University of Pennsylvania and also a member of the Board of Overseers of the University of Pennsylvania Law School, where he is an Adjunct Professor of Law. Osagie holds post-graduate degrees from the University of Pennsylvania Law School and the London School of Economics. Osagie is also the 2008 recipient of the Penn Law School Alumni Award of Merit and the 2006 recipient of the Penn Law School Adjunct Teaching Award."
+  name: "Ronke"
+  surname: "Ekwensi"
+  company: "Aetna | HealthCore Limited"
+  title: "Executive Director, Data Governance | Executive Director"
+#  thumbnailUrl: speakers/Ekwensi.jpg
+  bio: "Ronke Ekwensi is an arts collector, with a primary focus on art by Nigerians. Since 2011, she has been the greatest promoter of art and artists from Nigeria in the US. Her primary objective is to expose the American audience to the richness and quality of Nigerian art. She has hosted many artists from Nigeria and underwritten salons and exhibitions for them. She is the financial muscle behind The Ronke Ekwensi Fellowship that underwrites the cost of travel, accommodation and stipends to deserving artists yearly.<br><br>She currently serves as Executive Director of Data Governance for Aetna.  Before joining Aetna, she served as Vice President of Information Management and Policy for Baxalta, a leading BioTech company.  She was Managing Director in the Legal Management Consulting practice leading the Information Governance and Data Integration service lines at Duff & Phelps as a recognized expert in information management and Big Data and Social Data strategies.<br><br>She serves as an Executive Director of HealthCore Limited, dedicated to addressing health issues in Nigeria and sub-Saharan Africa through preventative health education and patient awareness.  She is the creator of The HealthZone a television program devoted to the education of the Nigerian public on health issues. Airing on Channels TV Thursdays at 3:30 PM & Tuesdays at 2:30 PM.<br><br>She is on the Board of Advisors for the Cardozo Data Law Initiative, promoting the education of data related issues in the legal practice; Twana Twuitu Cares – a Kenyan-based organization devoted to the care of AIDS orphans, and the International Institute for Creative Development, Abuja dedicated to promoting Nigerian artists.  She is a thought leader and frequent writer and presenter on information governance, mergers & acquisitions and electronic discovery topics.<br><br>Ronke Ekwensi is married with four children and is based in Morris Plains NJ.  Her other projects include; promoting Nigeria’s image by exposing contemporary Nigerian artists to the U.S. She is working on developing the Cyprian Ekwensi Virtual Library devoted the preservation of the collected works of the father of African writers – Cyprian Odiatu Duaka Ekwensi."
   panelist: true
 -
   id: 49
@@ -572,4 +572,13 @@
   title: "Co-Founder"
   thumbnailUrl: speakers/Hruby.jpg
   bio: "Aubrey Hruby is a Co-Founder of the Africa Expert Network (AXN).  AXN is a due diligence platform, expert network providing advice to investors, and resource for African entrepreneurs. Aubrey  has worked in more than 25 African markets, and as a Senior Fellow at the Atlantic Council and Advisor to the Wharton Social Impact Initiative, she speaks regularly on African business issues. She writes regularly for the Financial Times and Newsweek and has been interviewed by the Wall Street Journal, National Public Radio, Al Jazeera, Bloomberg Radio, CNBC, CCTV, and Africa24. Aubrey is a term member of the Council on Foreign Relations, a board member of Invest Africa USA, Young Leader at the Milken Institute and the co-author of award-winning The Next Africa (Macmillan, 2015). She earned a MBA from the Wharton School at the University of Pennsylvania and a MA from Georgetown University."
+  panelist: true
+-
+  id: 66
+  name: "Kara"
+  surname: "Sweeney"
+  company: "The Lauder Institute, University of Pennsylvania"
+  title: "Director of Admissions Marketing and Communications"
+  thumbnailUrl: speakers/kara.jpg
+  bio: "Kara joined The Lauder Institute at Penn in 2015 and oversees marketing and communications for admissions and assists with recruitment events and graduate application review. Prior to joining Lauder, Kara worked for Penn’s Graduate School of Education, as well as Penn State, INSEAD and Columbia Business School. Kara grew up in the Philadelphia area, but was born in Norway and has lived in six countries on three continents. She earned an MA in Higher Education Administration from Teachers College, Columbia University and a BA in English and Political Science from Trinity College in Washington, DC."
   panelist: true
