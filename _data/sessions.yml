@@ -61,17 +61,17 @@
 -
   id: 407
   title: "Fireside Chat: Consumer Goods"
-  place: "Anthony (3rd Floor)"
+  place: "Franklin Room (3rd Floor)"
   speakers: [13, 30, 39, 63, 64, 67]
 -
   id: 427
   title: "Fireside Chat: Education"
-  place: "Adams (3rd Floor)"
+  place: "Adams Room (3rd Floor)"
   speakers: [18, 34, 35]
 -
   id: 428
   title: "Fireside Chat: Real Estate & Urbanization"
-  place: "Franklin (3rd Floor)"
+  place: "Anthony Room (3rd Floor)"
   speakers: [21, 36, 40]
 -
   id: 408
@@ -81,7 +81,7 @@
 -
   id: 409
   title: "Fireside Chat: Agriculture"
-  place: "Franklin (3rd Floor)"
+  place: "Franklin Room (3rd Floor)"
   speakers: [7, 27]
 -
   id: 410
@@ -96,32 +96,32 @@
 -
   id: 412
   title: "Fireside Chat: Data Revolution"
-  place: "Adams (3rd Floor)"
+  place: "Adams Room (3rd Floor)"
   speakers: [16, 17, 22]
 -
   id: 429
   title: "Fireside Chat: Healthcare"
-  place: "Anthony (3rd Floor)"
+  place: "Anthony Room (3rd Floor)"
   speakers: [37, 45]
 -
   id: 430
-  title: "Fireside Chat: Impact Investing"
-  place: "Anthony (3rd Floor)"
+  title: "Grand Panel: Impact Investing"
+  place: "Lescaze Room (33rd Floor)"
   speakers: [10, 43, 62, 65]
 -
   id: 422
   title: "Masterclass: How I Built This | My Techpreneurship Journey"
-  place: "TBD"
+  place: "Anthony Room (3rd Floor)"
   speakers: [57]
 -
   id: 425
   title: "Investing in African Art as an Asset Class"
-  place: "TBD"
+  place: "Adams Room (3rd Floor)"
   speakers: [61, 48, 49]
 -
   id: 423
   title: "Masterclass: Insider Look at Andela's Series C - the Largest African Venture Funding to Date"
-  place: "TBD"
+  place: "Franklin Room (3rd Floor)"
   speakers: [51]
 -
   id: 414
