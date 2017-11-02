@@ -46,32 +46,32 @@
 -
   id: 403
   title: "Grand Panel: Energy"
-  place: "Howe"
+  place: "Howe Room (33rd Floor)"
   speakers: [8, 23, 11, 41]
 -
   id: 405
   title: "Grand Panel: Entrepreneur&shy;ship"
-  place: "Terrace"
+  place: "Terrace Room (33rd Floor)"
   speakers: [15, 12, 32, 33]
 -
   id: 406
   title: "Grand Panel: Women in Business"
-  place: "Lescaze"
+  place: "Lescaze Room (33rd Floor)"
   speakers: [29, 31, 58, 59]
 -
   id: 407
   title: "Fireside Chat: Consumer Goods"
-  place: "Anthony"
+  place: "Anthony (3rd Floor)"
   speakers: [13, 30, 39, 63, 64, 67]
 -
   id: 427
   title: "Fireside Chat: Education"
-  place: "Adams"
+  place: "Adams (3rd Floor)"
   speakers: [18, 34, 35]
 -
   id: 428
   title: "Fireside Chat: Real Estate & Urbanization"
-  place: "Franklin"
+  place: "Franklin (3rd Floor)"
   speakers: [21, 36, 40]
 -
   id: 408
@@ -81,32 +81,32 @@
 -
   id: 409
   title: "Fireside Chat: Agriculture"
-  place: "Howe"
+  place: "Franklin (3rd Floor)"
   speakers: [7, 27]
 -
   id: 410
   title: "Grand Panel: Digital Finance"
-  place: "Terrace"
+  place: "Terrace Room (33rd Floor)"
   speakers: [9, 26, 55]
 -
   id: 411
   title: "Grand Panel: Private Equity"
-  place: "Lescaze"
+  place: "Howe Room (33rd Floor)"
   speakers: [42, 28, 24, 53, 38]
 -
   id: 412
   title: "Fireside Chat: Data Revolution"
-  place: "Anthony"
+  place: "Adams (3rd Floor)"
   speakers: [16, 17, 22]
 -
   id: 429
   title: "Fireside Chat: Healthcare"
-  place: "Adams"
+  place: "Anthony (3rd Floor)"
   speakers: [37, 45]
 -
   id: 430
   title: "Fireside Chat: Impact Investing"
-  place: "Franklin"
+  place: "Anthony (3rd Floor)"
   speakers: [10, 43, 62, 65]
 -
   id: 422
