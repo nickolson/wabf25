@@ -123,7 +123,7 @@
         sessionIds: [500]
     }
     - {
-        startTime: "10:00",
-        endTime: "12:00",
+        startTime: "11:00",
+        endTime: "14:00",
         sessionIds: [502]
     }
