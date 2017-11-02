@@ -444,7 +444,7 @@
   surname: "Ekwensi"
   company: "Aetna | HealthCore Limited"
   title: "Executive Director, Data Governance | Executive Director"
-#  thumbnailUrl: speakers/Ekwensi.jpg
+  thumbnailUrl: speakers/Ronke.jpg
   bio: "Ronke Ekwensi is an arts collector, with a primary focus on art by Nigerians. Since 2011, she has been the greatest promoter of art and artists from Nigeria in the US. Her primary objective is to expose the American audience to the richness and quality of Nigerian art. She has hosted many artists from Nigeria and underwritten salons and exhibitions for them. She is the financial muscle behind The Ronke Ekwensi Fellowship that underwrites the cost of travel, accommodation and stipends to deserving artists yearly.<br><br>She currently serves as Executive Director of Data Governance for Aetna.  Before joining Aetna, she served as Vice President of Information Management and Policy for Baxalta, a leading BioTech company.  She was Managing Director in the Legal Management Consulting practice leading the Information Governance and Data Integration service lines at Duff & Phelps as a recognized expert in information management and Big Data and Social Data strategies.<br><br>She serves as an Executive Director of HealthCore Limited, dedicated to addressing health issues in Nigeria and sub-Saharan Africa through preventative health education and patient awareness.  She is the creator of The HealthZone a television program devoted to the education of the Nigerian public on health issues. Airing on Channels TV Thursdays at 3:30 PM & Tuesdays at 2:30 PM.<br><br>She is on the Board of Advisors for the Cardozo Data Law Initiative, promoting the education of data related issues in the legal practice; Twana Twuitu Cares – a Kenyan-based organization devoted to the care of AIDS orphans, and the International Institute for Creative Development, Abuja dedicated to promoting Nigerian artists.  She is a thought leader and frequent writer and presenter on information governance, mergers & acquisitions and electronic discovery topics.<br><br>Ronke Ekwensi is married with four children and is based in Morris Plains NJ.  Her other projects include; promoting Nigeria’s image by exposing contemporary Nigerian artists to the U.S. She is working on developing the Cyprian Ekwensi Virtual Library devoted the preservation of the collected works of the father of African writers – Cyprian Odiatu Duaka Ekwensi."
   panelist: true
 -
@@ -581,4 +581,13 @@
   title: "Director of Admissions Marketing and Communications"
   thumbnailUrl: speakers/kara.jpg
   bio: "Kara joined The Lauder Institute at Penn in 2015 and oversees marketing and communications for admissions and assists with recruitment events and graduate application review. Prior to joining Lauder, Kara worked for Penn’s Graduate School of Education, as well as Penn State, INSEAD and Columbia Business School. Kara grew up in the Philadelphia area, but was born in Norway and has lived in six countries on three continents. She earned an MA in Higher Education Administration from Teachers College, Columbia University and a BA in English and Political Science from Trinity College in Washington, DC."
+  panelist: true
+-
+  id: 67
+  name: "Renata"
+  surname: "Aráuz-DeStefano"
+  company: "Mwayi"
+  title: "Founder & CEO"
+  thumbnailUrl: speakers/Renata.jpg
+  bio: "Renata is an international development professional turned ethical fashion entrepreneur and investment banker.  Upon graduating from Tufts University with a double-major in International Relations and French, she spent over 3 years in the microfinance sector, first in the Latin America region and most recently in Malawi. After leading the implementation of a new credit product in 4 countries she relocated back to her hometown of Philadelphia to pursue her MBA at The Wharton School. While there, she discovered that social entrepreneurship brought together all the elements she desired in a career, and Mwayi was born.  Mwayi is a social enterprise that empowers at-risk Malawian women through vocational skills training and offers bespoke, made-to-measure African print apparel via an eCommerce platform. Since graduating in May 2017, she's lived and worked in NYC."
   panelist: true
