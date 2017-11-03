@@ -14,7 +14,7 @@
   title: "Venture Competition"
   place: "Commonwealth Ballroom"
   #service: true
-  speakers: [50, 51, 15, 13, 10]
+  speakers: [50, 51, 15, 13, 37]
   description: "Companies pitching: ScholarX, Loystar, MWAYI, Redbird Health Tech, MDaaS, Bright Future, Accounteer, OZE, Solar Freeze, SolarLuv"
 -
   id: 304
@@ -77,7 +77,8 @@
   id: 408
   title: "Lunch Keynote Panel"
   place: "Millennium Ballroom (2nd Floor)"
-  service: true
+#  service: true
+  speakers: [2, 25]
 -
   id: 409
   title: "Fireside Chat: Agriculture"
@@ -152,7 +153,7 @@
   title: "Gala & Evening Keynote"
   place: "Regency Ballroom (2nd Floor)"
   #service: true
-  speakers: [3]
+  speakers: [3, 6]
 -
   id: 420
   title: "After-Party"

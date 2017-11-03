@@ -5,11 +5,8 @@
   title: "Co-Chair"
   thumbnailUrl: team/Buhari.jpg
   team: true
-  #ribbon:
-  #  - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/abdul-hakeem-buhari"}
-    #- {name: "twitter", link: "https://github.com/ozasadnyy"}
 -
   id: 1
   name: "Amaka Cypriana"
@@ -17,13 +14,8 @@
   title: "Co-Chair"
   thumbnailUrl: team/Amaka.jpg
   team: true
-  #ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/amaka-cypriana-uzoh-25302631"}
-    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    #- {name: "github", link: "https://github.com/zasadnyy"}
-    #- {name: "site", link: "http://zasadnyy.com/"}
 -
   id: 6
   name: "Chuka"
@@ -33,7 +25,6 @@
   subTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/chukaonugu"}
-    #- {name: "twitter", link: "http://olostan.name/"}
 -
   id: 17
   name: "Daniel"
@@ -52,7 +43,6 @@
   subTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/kevin-chukuka-87263123"}
-    #- {name: "twitter", link: "http://olostan.name/"}
 -
   id: 9
   name: "Juliet"
@@ -71,8 +61,6 @@
   subTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/maryann-anugo-cams-82227050"}
-    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 10
   name: "Nayeon"
@@ -110,7 +98,6 @@
   subTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/robel-chiappini-0833b825"}
-    #- {name: "twitter", link: "http://olostan.name/"}
 -
   id: 7
   name: "Yolanda"
@@ -120,7 +107,6 @@
   subTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/ykwalker"}
-    #- {name: "twitter", link: "http://olostan.name/"}
 -
   id: 45
   name: "Alula"
@@ -220,8 +206,6 @@
   orgTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/halle-abraham"}
-    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 42
   name: "Ivana"
@@ -231,8 +215,6 @@
   orgTeam: true
   social:
     #- {name: "linkedin", link: "https://www.linkedin.com/in/halle-abraham"}
-    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 30
   name: "John"
@@ -296,8 +278,6 @@
   orgTeam: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/maryam-alausa-387111a7/"}
-    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 23
   name: "Naomi"
