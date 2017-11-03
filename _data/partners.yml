@@ -31,6 +31,7 @@
     - {name: "Perry World House", description: "Perry World House", link: "https://global.upenn.edu/perryworldhouse", imageUrl: "PWH.png", width: "110px"}
     - {name: "Rightvarsity", description: "Rightvarsity", link: "http://rightvarsity.com/", imageUrl: "rvt.png", width: "110px"}
     - {name: "EmekaTech, Inc.", description: "EmekaTech, Inc.", link: "", imageUrl: "Emeka.png", width: "110px"}
+    - {name: "Penn Center for Africana Studies", description: "Penn Center for Africana Studies", link: "https://africana.sas.upenn.edu/center", imageUrl: "cfas.jpg", width: "250px"}
 -
   group: "Travel Partners"
   elements:

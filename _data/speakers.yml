@@ -562,3 +562,12 @@
   thumbnailUrl: speakers/pedro.jpg
   bio: "Olufemi Olusegun Pedro (Femi Pedro) is an Economist, Investor and a mentor of young Africans. He began his professional banking career at the Central Bank of Nigeria, and was one of the co-founders and seed investors at one of Africa’s pioneer banks – Guaranty Trust Bank – at the age of 32. Within ten years, he became the Managing Director of First Atlantic Bank, after acquiring the bank with a consortium of investors in 1998. He served as Managing Director of the bank until 2003, when he was nominated by the Governor of Lagos State - Asiwaju Bola Ahmed Tinubu- to serve as the Deputy Governor of Lagos State.<br><br>In his years as the Deputy Governor of Lagos State, Femi Pedro was appointed the Chairman of Lagos State Revenue Mobilization committee, under which the Board of Inland Revenue, the Land Use Allocation Committee, and other revenue generating agencies operated. They embarked on an unprecedented and aggressive revenue drive by restructuring, reorganising and re-engineering the entire revenue-generating mechanism of Lagos State. His wealth of experience in the banking sector came to fruition as he oversaw the increase of Lagos State's Internally Generated Revenue (IGR) from 300 Million Naira per month to a staggering 7 Billion Naira per month in the space of eighteen months.<br><br>Today, he is a member of the ruling party All Progressives Congress, and also serves as a director in various business ventures. He is happily married to Honorable Justice Jumoke Pedro."
   panelist: true
+-
+  id: 70
+  name: "Esuga"
+  surname: "Abaya"
+  company: "DLA Piper LLP"
+  title: "Corporate Attorney"
+  thumbnailUrl: speakers/abaya.jpg
+  bio: "Esuga Abaya is a corporate attorney at the Philadelphia office of DLA Piper LLP (a global law firm with offices in 40 countries). He has experience representing a range of clients, including start-ups, private companies, public companies and private equity firms, in various corporate matters including mergers and acquisitions, corporate restructurings, commercial contract drafting, equity financings and general corporate governance. His experience spans different industries, including life sciences, new technology, software, manufacturing and financial services. He focuses much of his corporate practice on providing counsel to startups and emerging growth companies in such matters as corporate formation, corporate restructuring, corporate governance and corporate financing."
+  panelist: true
