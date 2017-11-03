@@ -37,16 +37,6 @@
   bio: "Dr. Mukhtar joined the African Development Bank from the Dangote Group of Industries, Nigeria, where he had been the Group Chief Strategy Officer since 2014.  In that role, he assisted the Group President, Alhaji Aliko Dangote, in setting overall strategic direction for the Company and overseeing key aspects of the strategic planning processes for the group, business units, subsidiaries and associated companies. He has also played a key role in driving major activities, projects and initiatives of the Company, including expansion of cement manufacturing into 18 African countries, a multi-billion dollar Oil Refinery and Petrochemical Plant, plus key joint ventures in Power, Oil & Gas as well as Agriculture Sectors.<br><br>Commenting on Dr. Mukhtar’s appointment, African Development Bank President Dr. Akinwumi Adesina said: “Abdu Mukhtar is a world-class and consummate professional, with strong entrepreneurial skills and a well demonstrated track record of delivering outstanding results in developing trade and industrialization in Africa. Abdu’s expertise and experience in structuring successful public-private partnerships will support the Bank as it rolls out its work to support the industrialization agenda of African countries.”<br><br>Dr. Mukhtar holds a Doctor of Medicine degree from the Ahmadu Bello University School of Medicine, Zaria, Nigeria; a Doctor of Philosophy Degree in Pathology and Laboratory Medicine from the Boston University School of Medicine, USA; a Master in Business Administration from the Harvard Business School, Cambridge, Massachusetts, USA; and a Master in Public Administration degree from Harvard Kennedy School, Cambridge, Massachusetts, USA. He was an Archbishop Tutu Leadership Fellow and the recipient of several international awards."
   thumbnailUrl: speakers/Mukhtar.jpeg
   keynote: true
-#-
-#  id: 5
-#  name: "Yemi"
-#  surname: "Cardoso"
-#  company: "Citibank Nigeria"
-#  title: "Chairman"
-#  bio: "Mr. Olayemi Cardoso, Chairman of Citibank Nigeria Limited, is a career banker and development policy expert. He started out in banking with Citibank in London. He trained in Greece and had several international assignments before returning to his native country Nigeria to work with Chase Manhattan Bank. He was subsequently invited by Citibank and became a member of the founding team of Citibank Nigeria in 1984 rising to a senior position within the bank. He left Citibank in 1990 to Co-found Citizens International bank as executive director.<br><br>Following an exemplary career in business, the government requested Mr. Cardoso's expertise in public service as the pioneer Commissioner for Economic Planning and Budget for Lagos State, in 1999 when the country returned to a democratically elected government. A highly unusual career move for a business person at the time, Yemi felt it was essential to encourage others to contribute their knowledge and experience to bring about reforms that were needed and other notable professionals have since followed his lead.<br><br>After public service, Mr. Cardoso attended the Masons Fellow Program at Harvard University where he earned a Masters degree in Public Policy and Management . He returned to Nigeria to assume responsibility on the board of of Chevron Oil Nigeria PLC as well as Chairman of the Audit committee of Citibank Nigeria and was appointed Chairman of the Board of the latter in 2010. Mr Cardoso also chaired the World Bank’s LMDGP project as well as the Bill and Media Gates Foundation and DFID- funded, EFInA, the leading financial inclusion organisation.<br><br>Mr. Cardoso, is an influential advisor and has worked on key initiatives with donors and development finance institutions including Ford Foundation, DFID and the World Bank. He is a member of the Belgium- based Cities Alliance think tank, a global partnership formed by the World Bank and UN habitat to tackle urban issues.<br><br>Mr. Cardoso is regular speaker at institutions including University of Oxford’s Saïd Business School and Harvard Kennedy School. He was awarded an Honorary Doctorate in Business Administration in 2017 for outstanding contributions to business and public service by his alma mater, Aston University, UK."
-#  thumbnailUrl: speakers/Cardoso.jpeg
-#  keynote: true
-#  rockstar: true
 -
   id: 6
   name: "Farayi"
@@ -120,15 +110,6 @@
   thumbnailUrl: speakers/Egbe.png
   panelist: true
   judge: true
-#-
-#  id: 14
-#  name: "Lance"
-#  surname: "Christ"
-#  company: "International Finance Corporation"
-#  title: "Global Head, Natural Resources, Infrastructure & Natural Resources"
-#  bio: "Lance Crist is Global Head of Natural Resources for IFC, the private sector arm of the World Bank Group.  Mr. Crist leads IFC’s financing and advisory services teams responsible for supporting the oil, gas & mining sectors.  IFC’s $2.5+ billion investment portfolio in these sectors includes more than 80 natural resource companies in over 35 countries across the emerging markets.  IFC’s financing includes investments in equity, mezzanine and senior debt; and the advisory services team provides support across a range of areas to assist clients in enhancing their sustainability.  Mr. Crist joined IFC in 1992 and has managed advisory mandates, project and corporate finance, and private equity transactions in the areas of general manufacturing and telecommunications, and prior to his current role he was IFC’s global head of oil & gas.  He earned a B.A. from Cornell University, and an MBA from the Wharton School."
-#  thumbnailUrl: speakers/Christ.png
-#  panelist: true
 -
   id: 15
   name: "Ike"
@@ -148,7 +129,6 @@
   bio: "Patricia is Co-Founder of I-DEV and has led many of I-DEV’s global engagements in agriculture, clean energy, tech and sustainable brands. She has over 13 years of experience advising SMEs and larger corporations on innovation, investment and impact strategies. Patricia led I-DEV’s launch and expansion into East Africa, and overseas global operations. Prior to joining I-DEV, Patricia worked at the Environmental Financial Consulting Group (EFCG), a boutique advisory firm to the engineering, environmental consulting and infrastructure sector, where she focused on M&A, operations and corporate strategy. She has an MBA from NYU’s Stern School of Business, and a B.A. in Environmental Science from Barnard College/Columbia University."
   thumbnailUrl: speakers/ChinSweeney.png
   panelist: true
-
 -
   id: 17
   name: "Edward"
@@ -167,24 +147,6 @@
   bio: "Jasmine L. Blanks Jones is a Robert Wood Johnson Health Policy Research Scholar and a Dr. William Fontaine Fellow in Africana Studies.  As a dual PhD student in Education, Culture and Society, she is also a George and Alice S. Hill Fellow.  She graduated from Florida A&M University with a B.S. in Music Education and taught middle school music history and performance in Maryland.  Holding a Master of Public Policy degree from the Humphrey School of Public Affairs at the University of Minnesota, Blanks Jones founded and served as Executive Director for B4 Youth Theatre, a Liberian NGO that grew out of a pilot of her Master’s thesis which was a prospectus on arts education.  Her research interests include global public health, arts education, youth civic engagement in education, African post-colonialism and diaspora migrations, African American colonialism and antebellum history. Liberia is her primary research site where she engages in Participatory Action Research, Practitioner Inquiry, and critical ethnography."
   thumbnailUrl: speakers/BlanksJones.png
   panelist: true
-#-
-#  id: 19
-#  name: "Kelvin"
-#  surname: "Doe"
-#  company: "Kelvin Doe Foundation"
-#  title: "Engineer and Founder"
-#  bio: "Kelvin Doe, also known as DJ Focus, is a Sierra Leonean engineer. He is known for teaching himself engineering at the age of 13 and building his own radio station in Sierra Leone, where he plays music and broadcasts news under the name “DJ Focus.” He was one of the finalists in GMin's Innovate Salone idea competition, in which Doe built a generator from scrap metals. Doe would constantly use discarded pieces of scrap to build transmitters, generators, and batteries, as well. As a result of his accomplishment, he received an invitation to the United States and subsequently became the youngest person to participate in the “Visiting Practitioner's Program” at MIT.<br><br>His accomplishments were documented by @radical.media and presented on their corporate YouTube channel. When the video went viral, the story was picked up by CNN, NBC News, and The Huffington Post. Doe subsequently was a speaker at TEDxTeen and lectured to undergraduate engineering students at Harvard College. In May 2013, Doe signed a $100,000 solar project pact with Canadian High Speed Service Provider Sierra WiFi. Today, Kevin Doe is one of the most respected among other young African inventors."
-#  thumbnailUrl: speakers/Doe.png
-#  panelist: true
-#-
-#  id: 20
-#  name: "Dr. Francis"
-#  surname: "Ukwuije"
-#  company: "HealthCare"
-#  title: "Senior Health Economist and Head"
-#  bio: "Francis Ukwuije is a Medical Doctor, Public Health Specialist, and a Senior Health Economist, with over 13 years progressive Government, Private Sector, and NGOs experience. He gained automatic entry into the Federal Ministry of Health (FMOH) in 2007 having earned the prestigious Nigerian President’s Honours Award as the Best and Most Outstanding Corps Member in Nigeria for 2005 and 2006. As an exceptional Change Agent, he has catalyzed high impact interventions for health in Nigeria including leading a high-level advocacy that immediately resulted in the creation of the Nigerian National Hepatitis Control Program in 2013.<br><br>Having built a credible and successful public service career in strategic management and health financing, he was seconded to the Population Council Nigeria from 2012 to 2014 to lead Health Economics Research within which period he significantly expanded Council’s portfolio. Dr. Ukwuije successfully reviewed Enhancing Nigeria’s Response to HIV/AIDS (ENR) Value for Money (VFM) Framework and conducted VFM Analysis on the ENR Project for 2 years."
-#  thumbnailUrl: speakers/Ukwuije.png
-#  panelist: true
 -
   id: 21
   name: "Frederick"
@@ -283,15 +245,6 @@
   title: "Senior Investment Officer"
   thumbnailUrl: speakers/Shruti.jpg
   bio: "Shruti Chandrasekhar has over a decade of private equity & venture capital experience identifying and evaluating businesses across multiple industries and geographies. She is currently a Senior Investment Officer covering venture capital investments for the IFC with a focus on digital health and transportation/logistics.  She also leads the gender-centric initiatives across venture capital & private equity at the IFC.  Prior to the IFC, she was responsible for private equity and venture capital investments (direct & indirect) for Premji Invest, a large Indian multi-strategy growth investor where she worked on private equity transactions in India as well as helped Premji Invest establish its California venture investment program.   She has an undergraduate degree from MIT and an MBA from the Wharton School with some additional experience in consulting and investment banking.  She loves travel and has moved her home-base every few years since 2000!"
-  panelist: true
--
-  id: 30
-  name: "Robert"
-  surname: "Tashima"
-  company: "Oxford Business Group"
-  title: "Managing Editor, Africa"
-  thumbnailUrl: speakers/Tashima.jpg
-  bio: "As Oxford Business Group’s (OBG) Managing Editor for Africa, Robert Tashima is now in charge of OBG’s field research across the continent, and is responsible for directing the company’s Africa-focused digital and print editorial content.<br><br>He has helped oversee an expansion of OBG’s research to many of the continent’s largest emerging markets and has also initiated field studies on sub-national and local economies and worked alongside key domestic stakeholders to identify new opportunities for potential foreign investors. In all, Robert has led primary source research and data gathering initiatives for OBG projects in more than a dozen countries across the Middle East and Africa.<br><br>Robert is a regular commentator in local media throughout the continent, as well as international outlets including the BBC, France 24 and Reuters. He frequently speaks at conferences in Africa, Europe and the US, and has delivered talks at a number of universities.<br><br>Robert is a Truman Security Fellow and a former Jesse M Unruh Fellow. He is an advisor to Asoko Insight, an Africa data analytics firm, and to OE54, an Africa-focused project management firm. He has studied at the Institut d’Etudes Politiques in Bordeaux, France, and has received his BA in Political Science and French from the University of California at Berkeley and his MSc in International Relations from the London School of Economics. Robert is fluent in French."
   panelist: true
 -
   id: 31
@@ -442,8 +395,8 @@
   id: 48
   name: "Ronke"
   surname: "Ekwensi"
-  company: "Aetna | HealthCore Limited"
-  title: "Executive Director, Data Governance | Executive Director"
+  company: "<br>"
+  title: "Arts Collector"
   thumbnailUrl: speakers/Ronke.jpg
   bio: "Ronke Ekwensi is an arts collector, with a primary focus on art by Nigerians. Since 2011, she has been the greatest promoter of art and artists from Nigeria in the US. Her primary objective is to expose the American audience to the richness and quality of Nigerian art. She has hosted many artists from Nigeria and underwritten salons and exhibitions for them. She is the financial muscle behind The Ronke Ekwensi Fellowship that underwrites the cost of travel, accommodation and stipends to deserving artists yearly.<br><br>She currently serves as Executive Director of Data Governance for Aetna.  Before joining Aetna, she served as Vice President of Information Management and Policy for Baxalta, a leading BioTech company.  She was Managing Director in the Legal Management Consulting practice leading the Information Governance and Data Integration service lines at Duff & Phelps as a recognized expert in information management and Big Data and Social Data strategies.<br><br>She serves as an Executive Director of HealthCore Limited, dedicated to addressing health issues in Nigeria and sub-Saharan Africa through preventative health education and patient awareness.  She is the creator of The HealthZone a television program devoted to the education of the Nigerian public on health issues. Airing on Channels TV Thursdays at 3:30 PM & Tuesdays at 2:30 PM.<br><br>She is on the Board of Advisors for the Cardozo Data Law Initiative, promoting the education of data related issues in the legal practice; Twana Twuitu Cares – a Kenyan-based organization devoted to the care of AIDS orphans, and the International Institute for Creative Development, Abuja dedicated to promoting Nigerian artists.  She is a thought leader and frequent writer and presenter on information governance, mergers & acquisitions and electronic discovery topics.<br><br>Ronke Ekwensi is married with four children and is based in Morris Plains NJ.  Her other projects include; promoting Nigeria’s image by exposing contemporary Nigerian artists to the U.S. She is working on developing the Cyprian Ekwensi Virtual Library devoted the preservation of the collected works of the father of African writers – Cyprian Odiatu Duaka Ekwensi."
   panelist: true
@@ -454,7 +407,7 @@
   company: "<br>"
   title: "Fine Artist"
   thumbnailUrl: speakers/Abii.jpg
-#  bio: "Osagie has over 30 years of experience in the field of law, finance, business management, healthcare and the pharmaceutical industry. He is a co-founder of PIPV Capital, prior to which he conceptualized and established GlaxoSmithKline Ventures and was its founding Vice President.<br><br>Osagie has held senior commercial and R&D positions within pharmaceutical companies such as GSK, SmithKline, DuPont Merck and Endo, where he was the founding General Counsel and SVP for Corporate Development. Osagie has also been a Price Waterhouse Corporate Finance Partner as well as a practicing attorney with a leading US Law Firm.<br><br>Osagie is a serial entrepreneur and investor. He serves as Chairman and Founder of iLera Healthcare as well as a Director of iCeutica Inc. Osagie was the Founder and Chairman of Ception Therapeutics Inc. and Trigenesis Therapeutics Inc. In addition, he serves on the Board of a number of financial institutions such as Haverford Trust (over $6 Billion in AUM) and StoneRidge Investment (over $2 Billion in AUM) and as the Chairman of the Advisory Board of Quoin Capital.<br><br>Osagie is a Trustee of the University of Pennsylvania and also a member of the Board of Overseers of the University of Pennsylvania Law School, where he is an Adjunct Professor of Law. Osagie holds post-graduate degrees from the University of Pennsylvania Law School and the London School of Economics. Osagie is also the 2008 recipient of the Penn Law School Alumni Award of Merit and the 2006 recipient of the Penn Law School Adjunct Teaching Award."
+#  bio: ""
   panelist: true
 -
   id: 52
@@ -490,7 +443,7 @@
   company: "The Wharton School"
   title: "Senior Associate Director for Diversity"
   thumbnailUrl: speakers/Guerrero.jpg
-#  bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
+#  bio: ""
   panelist: true
 -
   id: 57
@@ -499,7 +452,7 @@
   company: "<br>"
   title: "<br>"
   thumbnailUrl: speakers/Adedeji.jpg
-#  bio: "Barbara Span is Vice President of Global Public Affairs for Western Union, based in Washington, D.C. She has responsibility for policy, regulatory and consumer issues, advocacy programs, and conducting issues research analysis. Barbara’s focus for Western Union is on issues ranging from migration, financial inclusion, immigrant integration and economic development to consumer fraud, alternative financial services and underbanked/underserved consumers. She also plays a key role in Western Union initiatives that focus on diaspora-driven development and job creation, financial literacy and small business entrepreneurship programs.<br><br>Prior to Western Union, Barbara’s work has been with leading U.S. and global electronic payments processors and ATM/debit networks where her work has addressed a myriad of innovation and consumer protection issues including consumer privacy, identity theft, financial account aggregation, authentication in Internet purchasing, check electronification, payments fraud, natural disasters, and Y2K. She has been responsible for producing white papers and research that have supported Federal fraud protection legislation. She is a Northwestern University alum."
+#  bio: ""
   panelist: true
 -
   id: 58
@@ -590,4 +543,13 @@
   title: "Founder & CEO"
   thumbnailUrl: speakers/Renata.jpg
   bio: "Renata is an international development professional turned ethical fashion entrepreneur and investment banker.  Upon graduating from Tufts University with a double-major in International Relations and French, she spent over 3 years in the microfinance sector, first in the Latin America region and most recently in Malawi. After leading the implementation of a new credit product in 4 countries she relocated back to her hometown of Philadelphia to pursue her MBA at The Wharton School. While there, she discovered that social entrepreneurship brought together all the elements she desired in a career, and Mwayi was born.  Mwayi is a social enterprise that empowers at-risk Malawian women through vocational skills training and offers bespoke, made-to-measure African print apparel via an eCommerce platform. Since graduating in May 2017, she's lived and worked in NYC."
+  panelist: true
+-
+  id: 68
+  name: "Van"
+  surname: "Jones"
+  company: "Hello Tractor"
+  title: "<br>"
+  thumbnailUrl: speakers/van.jpg
+  bio: "Van leads the customer experience for Hello Tractor. He is responsible for channel partnerships, global brand management, product marketing, and strategic partnerships across hardware and software. He has nearly a decade of experience across marketing, strategy, and M&A.<br><br>Van holds an MBA from the University of Chicago Booth School of Business and a BA from the University of Cincinnati."
   panelist: true

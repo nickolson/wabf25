@@ -62,7 +62,7 @@
   id: 407
   title: "Fireside Chat: Consumer Goods"
   place: "Franklin Room (3rd Floor)"
-  speakers: [13, 30, 39, 63, 64, 67]
+  speakers: [13, 39, 63, 64, 67]
 -
   id: 427
   title: "Fireside Chat: Education"
@@ -82,7 +82,7 @@
   id: 409
   title: "Fireside Chat: Agriculture"
   place: "Franklin Room (3rd Floor)"
-  speakers: [7, 27]
+  speakers: [7, 27, 68]
 -
   id: 410
   title: "Grand Panel: Digital Finance"
@@ -107,7 +107,7 @@
   id: 430
   title: "Grand Panel: Impact Investing"
   place: "Lescaze Room (33rd Floor)"
-  speakers: [10, 43, 62, 65]
+  speakers: [10, 43, 62, 65, 50]
 -
   id: 422
   title: "Masterclass: How I Built This | My Techpreneurship Journey"
