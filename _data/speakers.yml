@@ -446,15 +446,6 @@
 #  bio: ""
   panelist: true
 -
-  id: 57
-  name: "Yomi"
-  surname: "Adedeji"
-  company: "<br>"
-  title: "<br>"
-  thumbnailUrl: speakers/Adedeji.jpg
-#  bio: ""
-  panelist: true
--
   id: 58
   name: "Jumoke"
   surname: "Dada"
@@ -557,11 +548,11 @@
   id: 69
   name: "Olufemi"
   surname: "Olusegun Pedro"
-  company: "<br>"
-  title: "<br>"
+  company: "Lagos State"
+  title: "Former Deputy Governor"
   thumbnailUrl: speakers/pedro.jpg
   bio: "Olufemi Olusegun Pedro (Femi Pedro) is an Economist, Investor and a mentor of young Africans. He began his professional banking career at the Central Bank of Nigeria, and was one of the co-founders and seed investors at one of Africa’s pioneer banks – Guaranty Trust Bank – at the age of 32. Within ten years, he became the Managing Director of First Atlantic Bank, after acquiring the bank with a consortium of investors in 1998. He served as Managing Director of the bank until 2003, when he was nominated by the Governor of Lagos State - Asiwaju Bola Ahmed Tinubu- to serve as the Deputy Governor of Lagos State.<br><br>In his years as the Deputy Governor of Lagos State, Femi Pedro was appointed the Chairman of Lagos State Revenue Mobilization committee, under which the Board of Inland Revenue, the Land Use Allocation Committee, and other revenue generating agencies operated. They embarked on an unprecedented and aggressive revenue drive by restructuring, reorganising and re-engineering the entire revenue-generating mechanism of Lagos State. His wealth of experience in the banking sector came to fruition as he oversaw the increase of Lagos State's Internally Generated Revenue (IGR) from 300 Million Naira per month to a staggering 7 Billion Naira per month in the space of eighteen months.<br><br>Today, he is a member of the ruling party All Progressives Congress, and also serves as a director in various business ventures. He is happily married to Honorable Justice Jumoke Pedro."
-  panelist: true
+  keynote: true
 -
   id: 70
   name: "Esuga"
@@ -579,4 +570,13 @@
   title: "<br>"
   thumbnailUrl: speakers/stephane.jpg
   bio: "Mr. Stéphane Le Bouder advises investors and companies operating in Africa.  Previously, Mr. Le Bouder was a Managing Director of AFIG Funds, a leading African private equity fund manager based in Dakar, Senegal.  At AFIG Funds, he was a member of the Investment Committee, and played a leadership role in investing, portfolio company management, exits, as well as investor relations.  Prior to joining AFIG Funds, Mr. Le Bouder served as Deputy Assistant Secretary for International Affairs at the U.S. Treasury Department, where he worked with senior Treasury and White House officials to advance the Obama Administration’s international financial and development agenda. Prior to Treasury, he served as Staff Director for the House Financial Services Subcommittee on International Monetary Policy and Trade. As a senior committee staff, under the leadership of Committee Chairman Barney Frank (Massachusetts), and Subcommittee Chairman Gregory Meeks (New York), Mr. Le Bouder helped draft the landmark Dodd-Frank Wall Street Reform Act, and was also responsible for congressional oversight of multilateral institutions.  Mr. Le Bouder also has past experience in consulting, derivatives trading, and in technology startups, all of which help inform his work as an investor, and policy advisor.<br><br>Mr. Le Bouder holds a BA and MA in Economics from McGill University, and an MBA from Harvard Business School.  He is a native of the Central African Republic, and holds both French and American citizenships.  Mr. Le Bouder lives in Washington D.C. with his wife and three children."
+  panelist: true
+-
+  id: 71
+  name: "Yoeal"
+  surname: "Haile"
+  company: "Cim Finance"
+  title: "Managing Director, Kenya Office"
+  thumbnailUrl: speakers/yoeal.png
+  bio: "Yoeal is currently the Managing Director of Cim Finance's Kenya office.<br><br>Prior to joining Cim Finance Yoealwas Chief Strategy Office of the African Leadership Group, holding operational roles of Chief Financial Officer and Head of Business Development of the African Leadership University. Prior to joining the African Leadership Group, Yoeal worked as an Equity Derivatives Associate for Merrill Lynch in their Hong Kong and New York offices. Yoeal also spent time working at Exxon Mobil in their corporate strategy division and at General Electric as a design engineer. Yoeal has an MBA in Finance and Management from The Wharton School and a BS in Industrial Engineering from Rensselaer Polytechnic Institute."
   panelist: true
